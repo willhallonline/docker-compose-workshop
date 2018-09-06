@@ -1,2 +1,2 @@
-flask==0.12
-redis==2.10.5
+Flask-Babel==0.11.2
+flask>0.12.3
