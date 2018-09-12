@@ -1,0 +1,6 @@
+version: '3'
+services:
+  drupal:
+    image: drupal:latest
+    ports:
+      - 8001:80
